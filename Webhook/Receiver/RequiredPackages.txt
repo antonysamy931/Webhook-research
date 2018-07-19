@@ -1,0 +1,2 @@
+﻿<package id="Microsoft.AspNet.WebHooks.Receivers" version="1.2.1" targetFramework="net47" />
+<package id="Microsoft.AspNet.WebHooks.Receivers.Custom" version="1.2.1" targetFramework="net47" />
